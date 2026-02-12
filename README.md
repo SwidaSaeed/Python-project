@@ -1,9 +1,12 @@
-# 📊 Python Data Analysis & Visualisation (Day 3)
+# 📊 Python Data Analysis & Visualisation
 
 **Repository:** Python-project  
-**Notebook:** `swida_saeed_day3_python.ipynb`  
 **Author:** Swida Saeed  
 
+
+# 🧮 Project 1: Student Data Analysis (Day 3)
+
+**Notebook:** `swida_saeed_day3_python.ipynb` 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SwidaSaeed/Python-project/blob/main/swida_saeed_day3_python.ipynb)
 
 ---
@@ -86,3 +89,59 @@ https://colab.research.google.com/github/SwidaSaeed/Python-project/blob/main/swi
 1. Clone the repository:
    ```bash
    git clone https://github.com/SwidaSaeed/Python-project.git
+
+
+# 💰 Project 2: Sales Data Analysis
+
+**Notebook:** `swida_saeed_sales_data_exercise.ipynb`
+
+## 🧠 Project Overview
+
+This project focuses on analysing sales data to extract business insights using Python and Pandas.
+
+The notebook explores revenue performance, product trends, and grouped summaries to better understand business performance.
+
+---
+
+## 📂 Dataset
+
+- **File:** Sales dataset (CSV)
+- **Format:** CSV  
+- **Description:** Contains transactional sales data used to calculate revenue and analyse product performance.
+
+---
+
+## 🔍 Analysis Performed
+
+- Loaded and explored sales data  
+- Calculated total revenue  
+- Used `groupby()` to aggregate data  
+- Summarised sales by product/category  
+- Identified top-performing products  
+
+---
+
+## 💡 Key Learning Outcomes
+
+- Data aggregation using Pandas  
+- Revenue calculations  
+- Grouping and summarising datasets  
+- Applying analytical thinking to business data  
+
+---
+
+# 🛠 Tools & Libraries
+
+- Python 3  
+- Google Colab  
+- Pandas  
+- Matplotlib (Project 1)  
+- NumPy (if used)
+
+---
+
+# 🚀 How to Run the Notebooks
+
+### Option 1: Open in Google Colab
+
+Use the Colab badge above to open the notebook directly.
