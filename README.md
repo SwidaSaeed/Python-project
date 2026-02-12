@@ -53,6 +53,8 @@ These statistics are used to summarise student performance and identify central 
 - Shows the distribution of student scores
 - Helps identify value ranges, frequency, and spread
 
+![Alt text](image1.png)
+
 
 ### 📦 Boxplot – Student Scores
 - Identifies potential outliers
