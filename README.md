@@ -105,7 +105,7 @@ The notebook explores revenue performance, product trends, and grouped summaries
 
 ## 📂 Dataset
 
-- **File:** Sales dataset (CSV)
+- **File:** sales_data_csv
 - **Format:** CSV  
 - **Description:** Contains transactional sales data used to calculate revenue and analyse product performance.
 
